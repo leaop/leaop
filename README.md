@@ -8,7 +8,7 @@ Hi there 👋 my name is Leão
 
 💬 Ask me about anything
 
-📫 How to reach me: in leaopn(github), Leao Neto(Linkedin)
+📫 How to reach me: Leao Neto(Linkedin); Leao BSB (kaggle)
 
 😄 ability: just beginning of Python, CSS, Java, R Studio, Power BI, SQL
 
